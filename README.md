@@ -3,8 +3,7 @@
 ### Author : Fredrick Mwangi 2023/5/24
 ****
 ## Project Description
-
-
+In this chaalenge I will be working with a Magazine domain, whereby we have three models: Author, Article, and Magazine. Well in our intance over here, an Author has many Articles, a Magazine has many Articles, and Articles belong to both Author and Magazine. I am to build out all of the methods listed in the deliverables.
 ******
 
 ## SCREENSHOTS
